@@ -1,2 +1,3 @@
 # device_vegetalte
-Release from scratch
+
+<project name="rico542/device_vegetalte" path="device/bq/vegetalte" remote="github" />
