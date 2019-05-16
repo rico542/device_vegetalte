@@ -1,0 +1,5 @@
+allow init self:process execmem;
+allow init self:tcp_socket { create setopt bind listen };
+allow init node:tcp_socket node_bind;
+
+allow init system_data_file:fifo_file write;
